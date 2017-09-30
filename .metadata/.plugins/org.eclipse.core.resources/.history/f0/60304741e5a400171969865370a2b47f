@@ -1,0 +1,11 @@
+package com.ihtc.manage_child;
+public class LittleChild {
+	
+	String name;
+	String sex;
+	int age;
+	String parent;
+	
+	
+	
+}

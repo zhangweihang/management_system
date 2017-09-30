@@ -1,0 +1,8 @@
+package com.ihtc.manage_child;
+
+public class Parent {
+
+	private String name;
+	private String tel;
+	
+}
